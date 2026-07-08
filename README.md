@@ -1,2 +1,2 @@
-# yogesh-portfolio
-This is yogesh's portfolio
+# Yogesh Portfolio
+Upload contents to GitHub Pages.
