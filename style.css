@@ -1,0 +1,7 @@
+body{margin:0;font-family:Segoe UI;background:linear-gradient(135deg,#0f172a,#1e3a8a);color:#fff}
+nav{position:sticky;top:0;background:rgba(0,0,0,.35);padding:15px;text-align:center;backdrop-filter:blur(8px)}
+nav a{color:#fff;text-decoration:none;margin:15px;font-weight:bold}
+.hero{text-align:center;padding:60px}.hero img{width:180px;border-radius:50%;border:5px solid #fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:20px;padding:30px}
+.card{background:rgba(255,255,255,.12);padding:15px;border-radius:18px;backdrop-filter:blur(8px);transition:.3s}.card:hover{transform:translateY(-8px)}
+img{max-width:100%;border-radius:12px}
